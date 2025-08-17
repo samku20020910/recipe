@@ -3207,6 +3207,10 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnCheckout
+id btnDelete
+id btnMinus
+id btnPlus
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3334,12 +3338,14 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id img
 id immediateStop
 id included
 id indeterminate
 id info
 id invisible
 id inward
+id is_pooling_container_tag
 id italic
 id itemImage
 id itemSubtitle
@@ -3467,6 +3473,7 @@ id pathRelative
 id peekHeight
 id percent
 id pin
+id pooling_container_listener_holder_tag
 id position
 id postLayout
 id pressed
@@ -3484,6 +3491,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id rvCart
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3595,6 +3603,10 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvName
+id tvPrice
+id tvQty
+id tvTotal
 id unchecked
 id uniform
 id unlabeled
@@ -3755,6 +3767,7 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
+layout item_cart
 layout item_recipe
 layout m3_alert_dialog
 layout m3_alert_dialog_actions

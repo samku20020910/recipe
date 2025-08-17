@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.recipeapp-mergeDebugResources-29:/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "com.example.recipeapp-mergeDebugResources-30:/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Tommy Hwang\\.gradle\\caches\\9.0-milestone-1\\transforms\\fc75e558d37d2c2aee8ae72be88d4f4c\\transformed\\material-1.12.0\\res\\values-pt-rBR\\values-pt-rBR.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.recipeapp-mergeDebugResources-29:/values-sk/values-sk.xml",
+            "outputFile": "com.example.recipeapp-mergeDebugResources-30:/values-sk/values-sk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Tommy Hwang\\.gradle\\caches\\9.0-milestone-1\\transforms\\6804726a67510e86a77df7de78847b05\\transformed\\core-1.13.1\\res\\values-sk\\values-sk.xml",

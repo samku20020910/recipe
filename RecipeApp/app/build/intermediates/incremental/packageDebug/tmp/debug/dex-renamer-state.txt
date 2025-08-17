@@ -1,4 +1,4 @@
-#Sat Aug 16 19:26:07 CST 2025
+#Sun Aug 17 21:39:24 CST 2025
 base.0=C\:\\Users\\Tommy Hwang\\Downloads\\RecipeApp_Multi\\RecipeApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\Tommy Hwang\\Downloads\\RecipeApp_Multi\\RecipeApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\Tommy Hwang\\Downloads\\RecipeApp_Multi\\RecipeApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
