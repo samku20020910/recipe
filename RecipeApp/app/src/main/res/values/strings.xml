@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="menu_cart">購物車</string>
+    <string name="menu_chat">聊天室</string>
+    <string name="menu_profile">個人頁</string>
+    <string name="lorem">這道菜色香味俱全，簡單三步驟即可完成。你可以按右上角工具列的功能：加入購物車、開啟聊天室或查看個人頁面。</string>
+    <string name="recipe_title">番茄羅勒義大利麵</string>
+</resources>

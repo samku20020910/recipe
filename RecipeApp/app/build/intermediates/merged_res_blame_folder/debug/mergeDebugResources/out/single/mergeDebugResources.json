@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.example.recipeapp-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.recipeapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-debug-31:/layout_item_recipe.xml.flat",
+        "source": "com.example.recipeapp-main-33:/layout/item_recipe.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-debug-31:/layout_activity_chat.xml.flat",
+        "source": "com.example.recipeapp-main-33:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-debug-31:/layout_activity_cart.xml.flat",
+        "source": "com.example.recipeapp-main-33:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-debug-31:/drawable_recipe_3.png.flat",
+        "source": "com.example.recipeapp-main-33:/drawable/recipe_3.png"
+    },
+    {
+        "merged": "com.example.recipeapp-debug-31:/drawable_recipe_placeholder.png.flat",
+        "source": "com.example.recipeapp-main-33:/drawable/recipe_placeholder.png"
+    },
+    {
+        "merged": "com.example.recipeapp-debug-31:/drawable_recipe_4.png.flat",
+        "source": "com.example.recipeapp-main-33:/drawable/recipe_4.png"
+    },
+    {
+        "merged": "com.example.recipeapp-debug-31:/layout_activity_profile.xml.flat",
+        "source": "com.example.recipeapp-main-33:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-debug-31:/drawable_recipe_5.png.flat",
+        "source": "com.example.recipeapp-main-33:/drawable/recipe_5.png"
+    },
+    {
+        "merged": "com.example.recipeapp-debug-31:/drawable_recipe_2.png.flat",
+        "source": "com.example.recipeapp-main-33:/drawable/recipe_2.png"
+    },
+    {
+        "merged": "com.example.recipeapp-debug-31:/drawable_recipe_1.png.flat",
+        "source": "com.example.recipeapp-main-33:/drawable/recipe_1.png"
+    },
+    {
+        "merged": "com.example.recipeapp-debug-31:/layout_activity_detail.xml.flat",
+        "source": "com.example.recipeapp-main-33:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-debug-31:/menu_menu_main.xml.flat",
+        "source": "com.example.recipeapp-main-33:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-debug-31:/drawable_recipe_6.png.flat",
+        "source": "com.example.recipeapp-main-33:/drawable/recipe_6.png"
+    }
+]

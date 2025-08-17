@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.RecipeApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- 原本 Theme.RecipeApp.xml 的設定 -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryContainer">@color/purple_700</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+
+        <!-- 原本 themes.xml 的設定 -->
+        <item name="android:navigationBarColor">?attr/colorSurface</item>
+    </style>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.recipeapp-mergeDebugResources-30:/layout/activity_detail.xml",
+        "source": "com.example.recipeapp-main-33:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.recipeapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-mergeDebugResources-30:/layout/activity_cart.xml",
+        "source": "com.example.recipeapp-main-33:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-mergeDebugResources-30:/layout/activity_chat.xml",
+        "source": "com.example.recipeapp-main-33:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-mergeDebugResources-30:/layout/activity_profile.xml",
+        "source": "com.example.recipeapp-main-33:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-mergeDebugResources-30:/layout/item_recipe.xml",
+        "source": "com.example.recipeapp-main-33:/layout/item_recipe.xml"
+    }
+]

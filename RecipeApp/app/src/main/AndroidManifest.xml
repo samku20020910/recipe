@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/recipe_1"
+        android:label="Recipe App"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RecipeApp">
+
+        <activity android:name=".CartActivity" />
+        <activity android:name=".ChatActivity" />
+        <activity android:name=".ProfileActivity" />
+
+        <!-- 有 intent-filter 的 Activity 必須加 android:exported -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".RecipeDetailActivity" />
+
+    </application>
+
+</manifest>
+
